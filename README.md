@@ -1,3 +1,15 @@
+# Home
+
+![home](https://user-images.githubusercontent.com/79957627/147400224-f8bd9a95-7beb-43e5-aae2-56ff9762824e.png)
+
+# Cart
+
+![cart](https://user-images.githubusercontent.com/79957627/147400229-54e08ec6-0e6a-43a4-8da8-c631b35e098b.png)
+
+# Checkout
+
+![checkout](https://user-images.githubusercontent.com/79957627/147400236-9bb03322-220f-4def-845b-2aa1dfcea50c.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
